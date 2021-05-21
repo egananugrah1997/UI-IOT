@@ -1,0 +1,5 @@
+{
+    "connectionString": "mongodb+srv://usertest:usertest@inf-isr-r7pka.gcp.mongodb.net/db-DITA?authSource=admin&replicaSet=inf-isr-shard-0&w=majority&readPreference=primary&appname=MongoDB%20Compass&retryWrites=true&ssl=true",
+    "rackTotalQty":"30",
+    "secret":"holaholo cok"
+}
